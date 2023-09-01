@@ -1,7 +1,8 @@
 # Lynn's First CS193 Homework
-- dogs
-- volleyball
-- the color green
+list of things I like about CS193
+- TA
+- classmates
+- ice breakers
 
 ## Welcome to GitHub Pages
 
