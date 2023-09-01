@@ -1,5 +1,4 @@
 # Lynn's First CS193 Homework
-list of things I like about CS193
 - TA
 - classmates
 - ice breakers
